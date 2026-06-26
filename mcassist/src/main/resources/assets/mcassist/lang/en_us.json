@@ -1,0 +1,9 @@
+{
+  "category.mcassist": "MCAssist",
+  "key.mcassist.toggle_hud": "Toggle Utility HUD",
+  "key.mcassist.add_waypoint": "Add Waypoint",
+  "key.mcassist.next_crosshair": "Cycle Crosshair Style",
+  "key.mcassist.sort_hotbar": "Sort Hotbar",
+  "key.mcassist.open_admin_panel": "Open Admin Command Panel",
+  "key.mcassist.tnt_assist": "Show TNT-Cart Setup Assistant"
+}

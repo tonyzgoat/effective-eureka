@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "mcassist",
+  "version": "${version}",
+  "name": "MCAssist",
+  "description": "Legitimate client-side utility mod with HUD, waypoints, inventory helper, and accessibility options.",
+  "authors": ["Arena.ai"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "ai.arena.mcassist.MCAssistClient"
+    ],
+    "modmenu": [
+      "ai.arena.mcassist.MCAssistModMenu"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.16.9",
+    "minecraft": "~1.21.4",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
